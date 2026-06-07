@@ -1,16 +1,43 @@
-## Hi there 👋
+# 🎌 AniScope by Arafat
 
-<!--
-**aniscopearafat/aniscopearafat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **AniScope by Arafat** — a Bangla Anime & Manga Review brand.
 
-Here are some ideas to get you started:
+## 📌 About AniScope
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AniScope is focused on Bangla content for anime and manga lovers.
+
+Here we create content about:
+
+- 📖 Manga Reviews
+- 🎬 Anime Reviews
+- 🧠 Fan Theories
+- ⚡ Anime News & Updates
+- 🔥 Character Analysis
+- 📚 Manga Recommendations
+- 🎭 Explained Videos
+
+## 🎯 Current Focus
+
+- One Piece
+- Jujutsu Kaisen
+- Solo Leveling
+- Demon Slayer
+- Naruto
+- Popular Anime & Manga Topics
+
+## 🌐 Brand
+
+**Channel Name:** AniScope by Arafat  
+**Username:** @aniscopearafat  
+**Language:** Bangla  
+**Niche:** Anime & Manga Review  
+
+## 📺 YouTube
+
+Subscribe to AniScope by Arafat for Bangla Anime & Manga content.
+
+> Anime is not just entertainment — it is a world of stories waiting to be explored.
+
+---
+
+Made with passion by **Arafat Hoshen Zihad**
